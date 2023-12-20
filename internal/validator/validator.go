@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/saadi925/go-val/internal/rules"
+	"github.com/saadi925/go-valid/internal/rules"
 )
 
 // ValidationErrors is a custom type for validation errors.

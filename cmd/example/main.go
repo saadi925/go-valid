@@ -4,8 +4,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/saadi925/go-val/internal/rules"
-	"github.com/saadi925/go-val/internal/validator"
+	"github.com/saadi925/go-valid/internal/rules"
+	"github.com/saadi925/go-valid/internal/validator"
 )
 
 // User is a struct representing user data with validation tags.

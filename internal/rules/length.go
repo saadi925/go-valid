@@ -1,4 +1,3 @@
-// internal/validator/rules/rules.go
 package rules
 
 import (
